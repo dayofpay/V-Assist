@@ -1,0 +1,84 @@
+[27-Jan-2023 18:13:26 UTC] PHP Warning:  Undefined variable $url in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 7
+[27-Jan-2023 18:13:26 UTC] PHP Warning:  file_get_contents(&amp;obligedPersonIdent=0344277945&amp;drivingLicenceNumber=284997400): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 10
+[27-Jan-2023 18:13:54 UTC] PHP Warning:  Undefined variable $url in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 7
+[27-Jan-2023 18:13:54 UTC] PHP Warning:  file_get_contents(&amp;obligedPersonIdent=0344277945&amp;drivingLicenceNumber=284997400): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 10
+[27-Jan-2023 18:14:12 UTC] PHP Warning:  Undefined variable $url in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 7
+[27-Jan-2023 18:14:12 UTC] PHP Warning:  file_get_contents(&amp;obligedPersonIdent=0344277945&amp;drivingLicenceNumber=284997400): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 10
+[27-Jan-2023 18:20:21 UTC] PHP Warning:  Undefined variable $url in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 10
+[27-Jan-2023 18:20:21 UTC] PHP Warning:  file_get_contents(&amp;obligedPersonIdent=0344277945&amp;drivingLicenceNumber=284997400): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 13
+[27-Jan-2023 18:20:21 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:53
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 53
+[27-Jan-2023 18:21:05 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 25
+[27-Jan-2023 18:23:16 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:25
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 25
+[27-Jan-2023 18:25:51 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 22
+[27-Jan-2023 18:26:41 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:22
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 22
+[27-Jan-2023 18:30:25 UTC] PHP Warning:  require(path/to/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:30:25 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:30:38 UTC] PHP Warning:  require(path/to/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:30:38 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:31:37 UTC] PHP Warning:  require(path/to/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:31:37 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:32:52 UTC] PHP Warning:  require(path/to/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:32:52 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:34:02 UTC] PHP Warning:  require(/usr/local/bin/php/PHPMailer/PHPMailerAutoload.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:34:02 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/usr/local/bin/php/PHPMailer/PHPMailerAutoload.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:3
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 3
+[27-Jan-2023 18:34:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 21
+[27-Jan-2023 18:37:32 UTC] PHP Warning:  require(path/to/src/PHPMailer.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 2
+[27-Jan-2023 18:37:32 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'path/to/src/PHPMailer.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:2
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 2
+[27-Jan-2023 18:38:10 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 21
+[27-Jan-2023 18:38:11 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 21
+[27-Jan-2023 18:40:08 UTC] PHP Fatal error:  Uncaught Error: Class "PHPMailer" not found in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:21
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 21
+[27-Jan-2023 18:41:44 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 6
+[27-Jan-2023 18:41:44 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 6
+[27-Jan-2023 18:41:48 UTC] PHP Warning:  require(PHPMailer/src/Exception.php): Failed to open stream: No such file or directory in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 6
+[27-Jan-2023 18:41:48 UTC] PHP Fatal error:  Uncaught Error: Failed opening required 'PHPMailer/src/Exception.php' (include_path='.:/opt/alt/php80/usr/share/pear:/opt/alt/php80/usr/share/php:/usr/share/pear:/usr/share/php') in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php:6
+Stack trace:
+#0 {main}
+  thrown in /home/vdevsonl/public_html/v-assist/api/scheduler/index.php on line 6
